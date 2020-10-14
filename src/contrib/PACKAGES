@@ -4,5 +4,5 @@ Depends: R (>= 3.2.0)
 Imports: captioner, flextable (>= 0.5.7), officer, renv
 Suggests: rstudioapi, dplyr, tidyr, magrittr, lubridate, ggplot2, janitor
 License: GPL (>= 2)
-MD5sum: 426f461e3eab5fe5b44f32fb242e74d9
+MD5sum: 6ce33016dc3ed69f7273565ca5b4f8f1
 NeedsCompilation: no
