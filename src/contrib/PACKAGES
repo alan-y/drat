@@ -1,8 +1,8 @@
 Package: phstemplates
-Version: 0.9.6
+Version: 1.0.0
 Depends: R (>= 3.2.0)
-Imports: magrittr, rmarkdown, captioner, flextable (>= 0.5.7), officer, renv
-Suggests: rstudioapi, dplyr, tidyr, lubridate, ggplot2, janitor
+Imports: magrittr, rmarkdown (>= 2.12), officer, renv
+Suggests: rstudioapi, dplyr, tidyr, lubridate, ggplot2, janitor, flextable (>= 0.5.7), captioner, gdtools
 License: GPL (>= 2)
-MD5sum: 5d2f6e2e77917f1222b10a0c21d11f9a
+MD5sum: 2c47dee33b4398e57e42db0355d1f700
 NeedsCompilation: no
